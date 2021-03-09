@@ -73,7 +73,7 @@ about: 'about.html'
             {% if post.categories.size > 0 %}
                 {{ post.categories | array_to_sentence_string}}
             {% endif %}
-            <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
+            <time class="post-date" datetime="{{ post.date | date:"%YYYY-%mm-%dd" }}">
                 {{ post.date | date_to_string }}
             </time>
         </footer>
