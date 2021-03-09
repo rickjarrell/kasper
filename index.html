@@ -45,10 +45,10 @@ about: 'about.html'
         </section>
         <footer class="post-meta">
             {% if site.author %}
-              
+
             {% endif %}
             {% if post.categories.size > 0 %}
-                {{ post.categories | array_to_sentence_string | prepend: 'on ' }}
+                {{ post.categories | array_to_sentence_string}}
             {% endif %}
             <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
                 {{ post.date | date_to_string }}
