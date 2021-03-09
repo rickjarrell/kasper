@@ -18,13 +18,14 @@ about: 'about.html'
         <div class="main-header-content inner">
             <h1 class="page-title">{{ site.name }}</h1>
             <h2 class="page-description">
-                {% if site.description %} {{ site.description }} {% endif %}<br>
+                {% if site.description %} {{ site.description }} {% endif %}</h2><br>
+                <h3>
                 {% if page.about %} <a href='{{page.about | relative_url}}'>About</a> | {% endif %}
                 {% if page.about %} <a href='{{page.updates | relative_url}}'>Updates</a> | {% endif %}
                 <a href='{{page.about | relative_url}}'>Twitter</a>
 
 
-            </h2>
+            </h3>
         </div>
     </div>
     <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
