@@ -20,12 +20,7 @@
 <body class="{% if page.post_class %}{{page.post_class}}{% else %}home-template{% endif %}">
 
     {{ content }}
-    <footer align = "center" class="site-footer clearfix">
-    
-        <a href="{{ site.baseurl }}">{{ site.name }}</a> &copy;
-              {{"now" | date: "%Y"}} &bull; All rights reserved.
-
-    </footer>
+  
 
     <script type="text/javascript" src="{{'/assets/js/jquery-1.11.1.min.js' | relative_url}}"></script>
     <script type="text/javascript" src="{{'/assets/js/jquery.fitvids.js' | relative_url }}"></script>
