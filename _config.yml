@@ -8,7 +8,7 @@ logo: false
 paginate: 15
 baseurl: /kasper
 domain_name: "http://www.rickjarrell.com"
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-118817479-3"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
