@@ -6,4 +6,6 @@ I’m a Product Manager with 10 years of experience leading product development 
 
 I also dabble in Real Estate and Small Business investing to help reach my goals of financial independence and multi-generational wealth.
 
+I pontificate about a mix of those things here and on [Twitter](https://twitter.com/rick_jarrell_).
+
 Outside of work, I like to travel, snowboard, hike, and hang out with my dog.
