@@ -3,6 +3,8 @@ layout: page
 title:  About Rick Jarrell
 ---
 
-I’m a Product Manager with 10 years of experience leading product development for websites and B2B software. I also dabble in Real Estate and Small Business Investing.
+I’m a Product Manager with 10 years of experience leading product development in B2B media and software.
 
-Outside of work, I enjoy snowboarding, a good power hike, and long walks with my dog.
+I also dabble in private investing with an eye toward Real Estate and Small Business.
+
+Outside of work, I like to travel, snowboard, hike, and go on long walks with my dog.
