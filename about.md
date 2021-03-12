@@ -2,10 +2,8 @@
 layout: page
 title:  About Rick Jarrell
 ---
-I’m a Product Manager with 10 years of experience leading product development in B2B media and software.
+I’m a Product Manager with experience building digital media and software products for a variety of industries. Right now, I'm building a messaging platform for the frontline workforce.
 
-I also dabble in Real Estate and Small Business investing to help reach my goals of financial independence and multi-generational wealth.
+I also dabble in Real Estate and am intrigued by SMB investing. I pontificate about a mix of these things here and on [Twitter](https://twitter.com/rick_jarrell_).
 
-I pontificate about a mix of those things here and on [Twitter](https://twitter.com/rick_jarrell_).
-
-Outside of work, I like to travel, snowboard, hike, and hang out with my dog.
+In my free time, I like to travel, snowboard, hike, and hang out with my dog.
